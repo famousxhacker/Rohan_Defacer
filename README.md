@@ -16,7 +16,7 @@ Install the requirements
 ```
 Run with python3
 ```python
-python3 Rohan_Defacer
+python3 Rohan_Defacer.py
 ```
 
 ## Preview
