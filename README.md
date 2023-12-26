@@ -18,6 +18,7 @@ Run with python3
 ```python
 python3 Rohan_Defacer.py
 ```
+Path Example - hacked.txt
 
 ## Preview
 ![Rohan_Defacer](https://github.com/famousxhacker/Rohan_Defacer/assets/81895006/f259be1d-d603-4025-8a4a-4e806bed56bd)
