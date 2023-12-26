@@ -31,4 +31,4 @@ python3 Rohan_Defacer
 
 ## Author
 
-- [@Rohan]([https://www.github.com/TheNightSec](https://www.instagram.com/rohan_banekar)
+- [@Rohan](https://www.instagram.com/rohan_banekar)
