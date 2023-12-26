@@ -4,6 +4,5 @@ Rohan deface is a auto defacer tool for fun
 # apt upgrade pip2
 # install requests pkg
 # install git pkg install
-# python2 Rohan_Defacer.py
-# there you go 
+# python3 Rohan_Defacer.py
 # By Rohan
